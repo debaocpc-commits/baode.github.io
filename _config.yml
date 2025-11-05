@@ -1,0 +1,24 @@
+title: "Baud的个人主页"
+description: "技术博客与个人作品集"
+baseurl: "https://de-bao.github.io"
+url: "https://de-bao.github.io/Baud"
+
+# 构建设置
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# 作者信息
+author:
+  name: "Baud"
+  email: "your-email@example.com"
+  github: "de-bao"
+  zhihu: "baud-17"
+  csdn: "qq_54707385"
+
+# 社交链接
+social_links:
+  github: "https://github.com/de-bao"
+  zhihu: "https://www.zhihu.com/people/baud-17"
+  csdn: "https://blog.csdn.net/qq_54707385"
