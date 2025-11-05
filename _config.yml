@@ -1,7 +1,7 @@
 title: "Baud的个人主页"
 description: "技术博客与个人作品集"
-baseurl: ""
-url: "https://de-bao.github.io/Baud"
+baseurl: "/Baud"
+url: "https://de-bao.github.io"
 
 # 构建设置
 markdown: kramdown
